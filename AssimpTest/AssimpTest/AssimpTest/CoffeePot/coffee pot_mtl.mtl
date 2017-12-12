@@ -1,0 +1,24 @@
+# Blender MTL File: 'coffee pot_BI.blend'
+# Material Count: 2
+
+newmtl Material.003
+Ns 58.823529
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.055556 0.055556 0.055556
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd coffee pot_col.jpg
+map_Bump coffee pot_nor.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.120915 0.120915 0.120915
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd coffee pot_col.jpg
+map_Bump coffee pot_nor.jpg

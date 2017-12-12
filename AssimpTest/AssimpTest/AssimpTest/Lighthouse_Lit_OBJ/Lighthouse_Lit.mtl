@@ -1,0 +1,43 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.05.2017 11:39:57
+
+newmtl Lighthouse_Bricks
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka Lighthouse_Bricks_Diffuse.png
+	map_Kd Lighthouse_Bricks_Diffuse.png
+	map_bump -bm 0.300000 Map__4_Normal_Bump.jpg
+
+newmtl Lighthouse_Glass
+	Ns 10.000000
+	Ni 1.500000
+	d 0.200000
+	Tr 0.800000
+	Tf 0.200000 0.200000 0.200000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.811765 0.890196 0.870588
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_bump -bm 0.300000 Map__4_Normal_Bump.jpg
+
+newmtl Lighthouse_Bulb
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.000000 0.000000 0.000000
+	Ke 1.000000 0.756863 0.470588
+	map_Ke Lighthouse_Bricks_Emissive.png
